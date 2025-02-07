@@ -16,7 +16,10 @@ Coded by www.creative-tim.com
 /**
   This file is used for controlling the global states of the components,
   you can customize the states for the different components here.
+ 
 */
+
+/ 아마 이건 대시보드에서 환경설정하는 코드인듯?/
 
 import { createContext, useContext, useReducer, useMemo } from "react";
 
